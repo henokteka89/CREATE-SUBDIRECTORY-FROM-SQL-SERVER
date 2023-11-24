@@ -1,0 +1,1 @@
+EXEC xp_create_subdir 'G:\DBA\TDE'
